@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Academy';
+    src: url('Academy.eot');
+    src: local('Academy'),
+        url('Academy.eot?#iefix') format('embedded-opentype'),
+        url('Academy.woff2') format('woff2'),
+        url('Academy.woff') format('woff'),
+        url('Academy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Academy';
+    src: url('Academy-Italic.eot');
+    src: local('Academy Italic'), local('Academy-Italic'),
+        url('Academy-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Academy-Italic.woff2') format('woff2'),
+        url('Academy-Italic.woff') format('woff'),
+        url('Academy-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Zombies';
+    src: url('Zombies.eot');
+    src: local('Zombies'),
+        url('Zombies.eot?#iefix') format('embedded-opentype'),
+        url('Zombies.woff2') format('woff2'),
+        url('Zombies.woff') format('woff'),
+        url('Zombies.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blambot Casual Cyr';
+    src: url('BlambotCasualCyr.eot');
+    src: local('Blambot Casual Cyr'), local('BlambotCasualCyr'),
+        url('BlambotCasualCyr.eot?#iefix') format('embedded-opentype'),
+        url('BlambotCasualCyr.woff2') format('woff2'),
+        url('BlambotCasualCyr.woff') format('woff'),
+        url('BlambotCasualCyr.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Buccaneer Cyr';
+    src: url('BuccaneerCyrRegular.eot');
+    src: local('Buccaneer Cyr Regular'), local('BuccaneerCyrRegular'),
+        url('BuccaneerCyrRegular.eot?#iefix') format('embedded-opentype'),
+        url('BuccaneerCyrRegular.woff2') format('woff2'),
+        url('BuccaneerCyrRegular.woff') format('woff'),
+        url('BuccaneerCyrRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caslon Antique Cyr';
+    src: url('CaslonAntiqueCyr.eot');
+    src: local('CaslonAntiqueCyr'),
+        url('CaslonAntiqueCyr.eot?#iefix') format('embedded-opentype'),
+        url('CaslonAntiqueCyr.woff2') format('woff2'),
+        url('CaslonAntiqueCyr.woff') format('woff'),
+        url('CaslonAntiqueCyr.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Academy';
+    src: url('Academy-BoldItalic.eot');
+    src: local('Academy Bold Italic'), local('Academy-BoldItalic'),
+        url('Academy-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Academy-BoldItalic.woff2') format('woff2'),
+        url('Academy-BoldItalic.woff') format('woff'),
+        url('Academy-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Academy';
+    src: url('Academy-Bold.eot');
+    src: local('Academy Bold'), local('Academy-Bold'),
+        url('Academy-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Academy-Bold.woff2') format('woff2'),
+        url('Academy-Bold.woff') format('woff'),
+        url('Academy-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tiepolo Std Book';
+    src: url('TiepoloStdBook-Cyr.eot');
+    src: local('Tiepolo Std BookCyr'), local('TiepoloStdBook-Cyr'),
+        url('TiepoloStdBook-Cyr.eot?#iefix') format('embedded-opentype'),
+        url('TiepoloStdBook-Cyr.woff2') format('woff2'),
+        url('TiepoloStdBook-Cyr.woff') format('woff'),
+        url('TiepoloStdBook-Cyr.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Munchkin';
+    src: url('Munchkin.eot');
+    src: local('MunchkinCyr'), local('Munchkin'),
+        url('Munchkin.eot?#iefix') format('embedded-opentype'),
+        url('Munchkin.woff2') format('woff2'),
+        url('Munchkin.woff') format('woff'),
+        url('Munchkin.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
